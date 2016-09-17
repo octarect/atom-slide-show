@@ -1,0 +1,32 @@
+{
+  "name": "slide-show",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/k0der/slide-show",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "configSchema": {
+    "autoToggle": {
+      "description": "Plugin automatically starts when atom is launched.",
+      "type": "boolean",
+      "default": true
+    },
+    "updateInterval": {
+      "description": "How often the background image is updated.(sec)",
+      "type": "integer",
+      "default": 60
+    },
+    "imageDir": {
+      "description": "The path where image files exist.",
+      "type": "string",
+      "default": ""
+    }
+  }
+}

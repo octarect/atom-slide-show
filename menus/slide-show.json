@@ -1,0 +1,20 @@
+{
+  "context-menu": {
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slide-show",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slide-show:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
