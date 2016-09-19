@@ -1,5 +1,5 @@
 {
-  "name": "slide-show",
+  "name": "atom-slide-show",
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "A short description of your package",
@@ -26,7 +26,7 @@
     "imageDir": {
       "description": "The path where image files exist.",
       "type": "string",
-      "default": "/home/rk0der/.atom"
+      "default": ""
     },
     "usePackageStyle": {
       "type": "boolean",

@@ -6,11 +6,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "slide-show",
+          "label": "atom-slide-show",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "slide-show:toggle"
+              "command": "atom-slide-show:toggle"
             }
           ]
         }
