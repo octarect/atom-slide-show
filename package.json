@@ -2,7 +2,7 @@
   "name": "atom-slide-show",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Set background images and change them at each fixed time.",
   "keywords": [
   ],
   "repository": "https://github.com/rk0der/atom-slide-show.git",
@@ -34,7 +34,7 @@
       "default": false
     },
     "targetTag": {
-      "description": "If you don't check 'usePackageStyle', please specify tag name has background-image",
+      "description": "If you don't check 'usePackageStyle', please specify tag name has background-image.",
       "type": "string",
       "default": "atom-workspace"
     }
