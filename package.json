@@ -26,7 +26,7 @@
     "imageDir": {
       "description": "The path where image files exist.",
       "type": "string",
-      "default": ""
+      "default": "$HOME"
     },
     "usePackageStyle": {
       "description": "The package sets its own styles to related elements.",
