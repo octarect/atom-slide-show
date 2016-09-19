@@ -26,7 +26,11 @@
     "imageDir": {
       "description": "The path where image files exist.",
       "type": "string",
-      "default": ""
+      "default": "/home/rk0der/.atom"
+    },
+    "usePackageStyle": {
+      "type": "boolean",
+      "default": true
     }
   }
 }
