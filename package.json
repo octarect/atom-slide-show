@@ -29,6 +29,7 @@
       "default": ""
     },
     "usePackageStyle": {
+      "description": "The package sets its own styles to related elements.",
       "type": "boolean",
       "default": false
     }
