@@ -32,6 +32,11 @@
       "description": "The package sets its own styles to related elements.",
       "type": "boolean",
       "default": false
+    },
+    "targetTag": {
+      "description": "If you don't check 'usePackageStyle', please specify tag name has background-image",
+      "type": "string",
+      "default": "atom-workspace"
     }
   }
 }
