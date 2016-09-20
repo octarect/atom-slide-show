@@ -2,7 +2,7 @@
 
 Set background images and change them at each fixed time.
 
-![A screenshot of atom-slide-show](resources/slideshow.gif)
+![A screenshot of atom-slide-show](https://github.com/rk0der/atom-slide-show/blob/master/resources/screenshot.gif?raw=true)
 
 ## Config
 
