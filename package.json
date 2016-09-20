@@ -1,7 +1,7 @@
 {
   "name": "atom-slide-show",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set background images and change them at each fixed time.",
   "keywords": [],
   "repository": "https://github.com/rk0der/atom-slide-show.git",
