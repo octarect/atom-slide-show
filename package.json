@@ -35,6 +35,13 @@
       "description": "If you don't check 'usePackageStyle', please specify tag name has background-image.",
       "type": "string",
       "default": "atom-workspace"
+    },
+    "brightness": {
+      "description": "Image brightness",
+      "type": "number",
+      "default": 0.5,
+      "minimum": 0.0,
+      "maximum": 1.0
     }
   }
 }
