@@ -1,5 +1,8 @@
 # Atom-Slide-Show
 
+[![apm](https://img.shields.io/apm/dm/atom-slide-show.svg?style=flat-square)](https://atom.io/packages/atom-slide-show)
+[![apm](https://img.shields.io/apm/l/atom-slide-show.svg?style=flat-square)](https://atom.io/packages/atom-slide-show)
+
 Set background images and change them at each fixed time.
 
 ![A screenshot of atom-slide-show](https://github.com/rk0der/atom-slide-show/blob/master/resources/screenshot.gif?raw=true)
