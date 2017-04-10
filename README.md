@@ -21,4 +21,4 @@ Set background images and change them at each fixed time.
 Send a pull request to http://github.com/rk0der/atom-slide-show. Use http://github.com/rk0der/atom-slide-show/issues for discussion.
 
 ## License
-MIT license (Copyright (c) 2016 Ryota Kota)
+MIT license (Copyright (c) 2017 Ryota Kota)
