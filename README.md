@@ -5,7 +5,7 @@
 
 Set background images and change them at each fixed time.
 
-![A screenshot of atom-slide-show](https://github.com/rk0der/atom-slide-show/blob/master/resources/screenshot.gif?raw=true)
+![A screenshot of atom-slide-show](https://github.com/octarect/atom-slide-show/blob/master/resources/screenshot.gif?raw=true)
 
 ## Config
 
@@ -18,7 +18,7 @@ Set background images and change them at each fixed time.
 | TargetTag | string | If you don't check 'usePackageStyle', please specify tag name has background-image. |
 
 ## Contribution
-Send a pull request to http://github.com/rk0der/atom-slide-show. Use http://github.com/rk0der/atom-slide-show/issues for discussion.
+Send a pull request to http://github.com/octarect/atom-slide-show. Use http://github.com/octarect/atom-slide-show/issues for discussion.
 
 ## License
 MIT license (Copyright (c) 2017 Ryota Kota)
